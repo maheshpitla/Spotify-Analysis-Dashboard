@@ -29,5 +29,7 @@ Dynamic visuals for quick comparison and trend analysis.
 To demonstrate data analysis, visualization, and business insight generation skills.
 To showcase hands-on experience with real-world music streaming data.
 Ideal for recruiters looking for Power BI and Data Analyst capabilities.
+<img width="1168" height="658" alt="Screenshot 2025-12-20 225941" src="https://github.com/user-attachments/assets/85f61b2b-45fc-4728-bbff-fdd174bba8f7" />
 ![Uploading Screenshot 2025-12-20 225941.png…]()
+
 
