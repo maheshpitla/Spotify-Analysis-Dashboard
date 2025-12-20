@@ -27,9 +27,7 @@ Dynamic visuals for quick comparison and trend analysis.
 🎯 Purpose of the Project
 
 To demonstrate data analysis, visualization, and business insight generation skills.
+To showcase hands-on experience with real-world music streaming data.
+Ideal for recruiters looking for Power BI and Data Analyst capabilities.
 ![Uploading Screenshot 2025-12-20 225941.png…]()
 
-
-To showcase hands-on experience with real-world music streaming data.
-
-Ideal for recruiters looking for Power BI and Data Analyst capabilities.
